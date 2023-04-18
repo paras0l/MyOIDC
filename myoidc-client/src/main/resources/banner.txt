@@ -1,0 +1,10 @@
+${AnsiColor.GREEN}
+ __   __           ___   _ .___     ___
+ |    |  ,    .  .'   `. | /   `  .'   \
+ |\  /|  |    `  |     | | |    | |
+ | \/ |  |    |  |     | | |    | |
+ /    /   `---|.  `.__.' / /---/   `.__,
+          \___/
+
+MyOIDC-Client: ${application.formatted-version}
+Spring Boot: ${spring-boot.formatted-version}
